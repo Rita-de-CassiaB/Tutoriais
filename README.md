@@ -1,2 +1,2 @@
-<h2> Ajudando pessoas  <h2/>
-Como utilizar o GitBash?
+Tutoriais 
+Como utilizar o GitBash para enviar Arquivos?
